@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+        "id": 0,
+        "name": "Intelligent Plastic Tuna",
+        "description": "Repellat neque vero et ullam ipsum ea. Unde quis esse quam rerum quos ullam. Voluptate non nihil et corporis. Consequuntur commodi atque in cum blanditiis. Harum tenetur deserunt neque. Velit ratione in sint. Doloremque nobis atque consequatur quos quae.",
+        "picture": "https://cdn.fakercloud.com/avatars/devinhalladay_128.jpg",
+        "price": "889.00",
+        "quantity": "64534",
+        "category": "Kids",
+        "subcategory": "Kids",
+        "brand": "Electronics",
+        "created_at": "2022-04-13T04:24:20.521Z",
+        "updated_at": "2021-10-06T00:30:49.528Z"
+    },
+    {
+      "id": 2,
+      "name": "Handmade Concrete Pants",
+      "description": "Impedit et cupiditate aut repellendus. Nihil aut at deserunt consectetur voluptas est qui. Cum explicabo iste quasi odio et vero.",
+      "picture": "https://cdn.fakercloud.com/avatars/el_fuertisimo_128.jpg",
+      "price": "807.00",
+      "quantity": "36826",
+      "category": "Industrial",
+      "subcategory": "Beauty",
+      "brand": "Jewelery",
+      "created_at": "2021-08-26T04:11:05.799Z",
+      "updated_at": "2021-12-31T14:40:18.013Z"
+  }
+  ]
+}
